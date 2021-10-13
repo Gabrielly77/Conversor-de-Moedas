@@ -1,0 +1,60 @@
+body {
+  font-family: "Press Start 2P", cursive;
+  min-height: 600px;
+  background-image: url("https://i.pinimg.com/originals/a8/a6/8d/a8a68d2db4923f96b6e0f08808cc0ead.gif");
+
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #78bd2e;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffca27;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #78bd2e;
+}
+
+h2 {
+  color: #ffca27;
+  font-size: 30px;
+  width: fit-content;
+  margin: 40px auto;
+}
